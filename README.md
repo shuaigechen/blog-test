@@ -3,9 +3,9 @@
 今天在家学习编程
 
 这是学到的一行代码
-    git push -v origin master
 
-推送本地分支master到远程origind的master
+    git push -v origin master
+(解释：推送本地分支master到远程origind的master)
 
 这是学到的一堆代码
 ```javascript
